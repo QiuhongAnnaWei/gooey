@@ -1,19 +1,18 @@
 # Gooey
 
+## Introduction
 Gooey is a tool that helps streamline and enhance the process of selecting colors and fonts for designers. It aims both to make the execution of stylesheet making smoother and easier and to kindle sparks of creativity and support inventive exploration. Our website meshes together an original and intelligent user-based color palette generation algorithm and an aesthetically appealing and easy-to-use front-end design in the hope that we can make the process more efficient, enjoyable, and imaginative.
+<br/>
 
-
-## INFO
-
-[Deployed App](https://powerful-forest-21960.herokuapp.com/) /
-[More detailed README](https://powerful-forest-21960.herokuapp.com/about) /
-[Figma Mocks](https://www.figma.com/file/5qDBB51FS1zYHBRXRJjSVm/Gooey?node-id=0%3A1)/
-
-
+## Links
+[Deployed App](https://powerful-forest-21960.herokuapp.com/)  
+[More detailed README](https://powerful-forest-21960.herokuapp.com/about)  
+[Figma Mocks](https://www.figma.com/file/5qDBB51FS1zYHBRXRJjSVm/Gooey?node-id=0%3A1)  
+<br/>
 
 ## Set Up
 
-### To develop:
+### To Develop:
 
 In the `backend` directory, you will need to create your venv.
 
@@ -48,11 +47,9 @@ You'll need to go into `frontend/src/constants.js` and comment in the 5000 varia
 changes in the front end.
 
 
-** stuff **
-If you want to install all dependences, go to the 
-root directory and go: `pip install -r requirements.txt`
-
-
+If you want to install all dependences, go to the root directory and go: `pip install -r requirements.txt`
+<br/>
+<br/>
 
 ### To Test:
 
