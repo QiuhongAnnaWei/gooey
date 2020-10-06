@@ -8,7 +8,6 @@ Gooey is a tool that helps streamline and enhance the process of selecting color
 [Deployed App](https://powerful-forest-21960.herokuapp.com/)  
 [More detailed README](https://powerful-forest-21960.herokuapp.com/about)  
 [Figma Mocks](https://www.figma.com/file/5qDBB51FS1zYHBRXRJjSVm/Gooey?node-id=0%3A1)  
-<br/>
 
 ## Set Up
 
