@@ -1,7 +1,7 @@
 # Gooey
 
 ## Introduction
-Gooey is a tool that helps streamline and enhance the process of selecting colors and fonts for designers. It aims both to make the execution of stylesheet making smoother and easier and to kindle sparks of creativity and support inventive exploration. Our website meshes together an original and intelligent user-based color palette generation algorithm and an aesthetically appealing and easy-to-use front-end design in the hope that we can make the process more efficient, enjoyable, and imaginative.
+Gooey is a graphic design tool that helps streamline and enhance the process of selecting colors and fonts for designers. Powered by a machine learning palette recommendation algorithm, it aims both to make the execution of stylesheet making smoother and to support inventive exploration in the visual space for anyone. Our website meshes intellgient self-developed heuristics and user-specific soft clustering algorithm with an aesthetically appealing and intuitive user interface in the hope that we can make the design process more efficient, enjoyable, and imaginative.
 <br/>
 
 ## Links
